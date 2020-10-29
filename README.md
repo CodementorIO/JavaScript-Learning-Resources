@@ -77,7 +77,7 @@ If you want to build a cool, interactive website with fancy animations, or easil
 
 ## Documentations
 - [Mozilla Development Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [WebPlatform.org](http://docs.webplatform.org/wiki/javascript)
+- [WebPlatform.org](https://webplatform.github.io/docs/javascript/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 
